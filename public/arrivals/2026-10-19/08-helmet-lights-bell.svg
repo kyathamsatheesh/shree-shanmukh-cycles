@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 700" width="800" height="700">
+<rect width="800" height="700" fill="#E6F0FF"/>
+<ellipse cx="400" cy="560" rx="260" ry="22" fill="#000" opacity="0.06"/>
+
+<g transform="translate(240 300) scale(1)" fill="none" stroke="#0B2A5B" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+  <circle cx="70" cy="150" r="52"/><circle cx="250" cy="150" r="52"/>
+  <path d="M70 150 L125 65 L150 150 Z M125 65 H215 L150 150 M215 65 L250 150 M125 65 V48 M105 48 H145 M215 65 L203 38 H232"/>
+</g>
+<text x="400" y="110" text-anchor="middle" font-family="Poppins, Arial, sans-serif" font-size="40" font-weight="600" fill="#0B2A5B">Helmet &amp; lights set</text>
+<text x="400" y="160" text-anchor="middle" font-family="Poppins, Arial, sans-serif" font-size="26" fill="#4A5A75">Accessories</text>
+</svg>

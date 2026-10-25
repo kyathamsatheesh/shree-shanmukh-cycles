@@ -1,0 +1,12 @@
+{
+  "items": [
+    { "file": "01-balance-cycle-12.svg", "name": "Balance cycle 12\"", "nameTe": "బ్యాలెన్స్ సైకిల్ 12\"", "detail": "Ages 2–4 · No pedals", "detailTe": "2–4 ఏళ్ళు · పెడల్స్ లేవు", "tag": "new" },
+    { "file": "02-kids-cycle-16-side-wheels.svg", "name": "Kids cycle 16\" with side wheels", "nameTe": "సైడ్ వీల్స్‌తో పిల్లల సైకిల్ 16\"", "detail": "Ages 4–6", "detailTe": "4–6 ఏళ్ళు", "tag": "new" },
+    { "file": "03-toddler-tricycle.svg", "name": "Toddler tricycle with push handle", "nameTe": "పుష్ హ్యాండిల్‌తో ట్రైసైకిల్", "detail": "Ages 1.5–3", "detailTe": "1.5–3 ఏళ్ళు", "tag": "just" },
+    { "file": "04-kids-sports-cycle-20.svg", "name": "Kids sports cycle 20\"", "nameTe": "పిల్లల స్పోర్ట్స్ సైకిల్ 20\"", "detail": "Ages 6–9 · Gear & non-gear", "detailTe": "6–9 ఏళ్ళు · గేర్ & నాన్-గేర్", "tag": "new" },
+    { "file": "05-teen-cycle-24.svg", "name": "Teen cycle 24\"", "nameTe": "టీనేజ్ సైకిల్ 24\"", "detail": "Ages 9–13", "detailTe": "9–13 ఏళ్ళు", "tag": "new" },
+    { "file": "06-school-cycle-carrier.svg", "name": "School cycle with carrier", "nameTe": "క్యారియర్‌తో స్కూల్ సైకిల్", "detail": "Ages 10+ · Stand & mudguards", "detailTe": "10+ ఏళ్ళు · స్టాండ్ & మడ్‌గార్డ్స్", "tag": "school" },
+    { "file": "07-ladies-city-cycle-26.svg", "name": "Ladies city cycle 26\"", "nameTe": "లేడీస్ సిటీ సైకిల్ 26\"", "detail": "Adults · Front basket", "detailTe": "పెద్దలకు · ముందు బాస్కెట్", "tag": "just" },
+    { "file": "08-helmet-lights-bell.svg", "name": "Helmet, lights & bell set", "nameTe": "హెల్మెట్, లైట్లు & బెల్ సెట్", "detail": "Safety accessories", "detailTe": "సేఫ్టీ యాక్సెసరీలు", "tag": "school" }
+  ]
+}

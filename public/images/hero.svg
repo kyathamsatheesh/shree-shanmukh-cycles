@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1040" width="1240" height="1040">
+<defs><linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#CFE3FF"/><stop offset="1" stop-color="#F4F7FC"/></linearGradient></defs>
+<rect width="1240" height="1040" fill="url(#s)"/>
+<circle cx="1020" cy="180" r="80" fill="#FFC72C"/>
+<rect x="0" y="640" width="1240" height="400" fill="#D8E1EF"/>
+<rect x="0" y="780" width="1240" height="16" fill="#FFFFFF" opacity="0.8"/>
+
+<g transform="translate(150 520) scale(1.25)" fill="none" stroke="#1E5BD8" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+  <circle cx="70" cy="150" r="52"/><circle cx="250" cy="150" r="52"/>
+  <path d="M70 150 L125 65 L150 150 Z M125 65 H215 L150 150 M215 65 L250 150 M125 65 V48 M105 48 H145 M215 65 L203 38 H232"/>
+</g>
+<g transform="translate(520 560) scale(1.05)" fill="none" stroke="#1F8A4C" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+  <circle cx="70" cy="150" r="52"/><circle cx="250" cy="150" r="52"/>
+  <path d="M70 150 L125 65 L150 150 Z M125 65 H215 L150 150 M215 65 L250 150 M125 65 V48 M105 48 H145 M215 65 L203 38 H232"/>
+</g>
+<g transform="translate(860 540) scale(1.15)" fill="none" stroke="#E2312F" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+  <circle cx="70" cy="150" r="52"/><circle cx="250" cy="150" r="52"/>
+  <path d="M70 150 L125 65 L150 150 Z M125 65 H215 L150 150 M215 65 L250 150 M125 65 V48 M105 48 H145 M215 65 L203 38 H232"/>
+</g>
+<text x="620" y="320" text-anchor="middle" font-family="Poppins, Arial, sans-serif" font-size="46" font-weight="600" fill="#0B2A5B">Replace with a real shop photo</text>
+<text x="620" y="380" text-anchor="middle" font-family="Poppins, Arial, sans-serif" font-size="30" fill="#4A5A75">public/images/hero.jpg</text>
+</svg>
