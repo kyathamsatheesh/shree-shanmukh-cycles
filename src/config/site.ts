@@ -11,14 +11,14 @@ export const site = {
   url: "https://shreeshanmukhcycles.in",
 
   // TODO: real phone. `phone` is used for tap-to-call, `phoneDisplay` is what people see.
-  phone: "+919000000000",
-  phoneDisplay: "+91 90000 00000",
+  phone: "+916305304481",
+  phoneDisplay: "+91 63053 04481",
 
   // TODO: WhatsApp number in international format, digits only (91 + 10-digit mobile).
-  whatsapp: "919000000000",
+  whatsapp: "916305304481",
 
   address: {
-    street: "Shop No. __, Main Road", // TODO
+    street: "Near HDFC Bank, Kallur Road", // TODO
     locality: "Korutla",
     district: "Jagtial",
     region: "Telangana",
@@ -44,7 +44,7 @@ export const site = {
   ],
 
   // TODO: real links
-  instagram: "https://www.instagram.com/your_instagram_handle",
+  instagram: "https://www.instagram.com/sri_shanmukh_cyclestorkoratla",
   googleReviews: "https://g.page/r/your-google-business-id/review",
 
   areasServed: ["Korutla", "Metpally", "Jagtial"], // TODO: the towns and villages you serve
